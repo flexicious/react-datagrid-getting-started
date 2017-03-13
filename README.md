@@ -18,3 +18,7 @@ Instructions
 `npm start`
 
 Go to `localhost:8080`
+
+Running example:
+
+https://www.webpackbin.com/bins/-Kf7VrEfPWcERM64g5fg
