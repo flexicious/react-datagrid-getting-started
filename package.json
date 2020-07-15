@@ -8,8 +8,8 @@
   "dependencies": {
     "react": "^15.4.0",
     "react-dom":  "^15.4.0",
-    "flexicious-react-datagrid": "^1.1.6",
-    "flexicious-react-datagrid-styles": "^1.0.9"
+    "flexicious-react-datagrid": "latest",
+    "flexicious-react-datagrid-styles": "latest"
   },
   "devDependencies": {
     "html-webpack-plugin": "1.6.1",
